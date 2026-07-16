@@ -1,0 +1,4 @@
+interface:
+  display_name: "ZYNQ_Pro_Creator"
+  short_description: "Create a named ZYNQ Verilog and ModelSim scaffold"
+  default_prompt: "Use $zynq-pro-creator to generate a ZYNQ Verilog project in the target folder."
